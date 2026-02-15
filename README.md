@@ -42,4 +42,4 @@ scripts.js – interactive logic
 
 ## Author
 Sijabulile Ncube-
-Pasionate about building practical web applications using HTML,CSS and Javascript.
+Passionate about building practical web applications using HTML,CSS and Javascript.
