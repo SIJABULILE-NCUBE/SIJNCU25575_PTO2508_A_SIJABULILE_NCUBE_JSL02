@@ -9,7 +9,7 @@ It was built using:
 - JavaScript
 
 The layout includes a sidebar and three task columns:
-TODO, DOING and DONE.
+TODO, DOING and DONE..
 
 ## Project Overview
 
