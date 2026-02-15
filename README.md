@@ -41,6 +41,5 @@ styles.css – visual styling
 scripts.js – interactive logic 
 
 ## Author
-Sijabulile Ncube
-Aspiring Software Developer
+Sijabulile Ncube-
 Pasionate about building practical web applications using HTML,CSS and Javascript.
