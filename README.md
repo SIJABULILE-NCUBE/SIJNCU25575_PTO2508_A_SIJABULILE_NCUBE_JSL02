@@ -24,7 +24,7 @@ The script:
 
 If no tasks are marked as done, a message is displayed in the console.
 
-##Purpose of the Project
+## Purpose of the Project
 
 This project focuses on:
 
@@ -39,3 +39,8 @@ This project focuses on:
 index.html – main structure  
 styles.css – visual styling  
 scripts.js – interactive logic 
+
+## Author
+Sijabulile Ncube
+Aspiring Software Developer
+Pasionate about building practical web applications using HTML,CSS and Javascript.
