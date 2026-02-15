@@ -9,7 +9,7 @@ It was built using:
 - JavaScript
 
 The layout includes a sidebar and three task columns:
-TODO, DOING and DONE..
+TODO, DOING and DONE.
 
 ## Project Overview
 
@@ -24,7 +24,7 @@ The script:
 
 If no tasks are marked as done, a message is displayed in the console.
 
-## Purpose of the Project
+##Purpose of the Project
 
 This project focuses on:
 
